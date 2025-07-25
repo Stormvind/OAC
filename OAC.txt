@@ -1,14 +1,13 @@
 Supinated
-1RM 51 KG
+1RM 51.25 KG, 51.5KG dubious
 5RM 35 KG
 10RM 15 KG
 0KG 15 reps
 
 Wide supinated
 1RM 36.5 KG
-5RM 21.25 KG 6 reps
+5RM 22.5 KG
 10RM 7.5 KG
-0KG
 
 Neutral
 1RM 50 KG, 52.5 KG dubious
@@ -36,10 +35,8 @@ Behind the neck pronated
 
 Pronated inverted row
 5RM 11.25 KG 7 reps
-10RM
 0KG 20 reps
 
 Strict curl
 1RM 47.5KG
 5RM 40KG
-10RM
