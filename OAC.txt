@@ -2,7 +2,7 @@ Supinated
 1RM 53.75 KG
 5RM 35 KG 6 reps
 10RM 15 KG
-0KG 15 reps
+0KG 18 reps
 
 Wide supinated
 1RM 36.5 KG
@@ -19,7 +19,7 @@ Pronated
 1RM 42.75 KG
 5RM 27.5 KG 6 reps
 10RM 11.25 KG
-0KG 14 reps
+0KG 16 reps
 
 Wide pronated
 1RM 30 KG
@@ -36,6 +36,12 @@ Behind the neck pronated
 Pronated inverted row
 5RM 18.75 KG
 0KG 23 reps
+
+L sit supinated
+0KG 15 reps
+
+L Sit pronated
+0KG 14 reps
 
 Strict curl
 1RM 47.5KG
